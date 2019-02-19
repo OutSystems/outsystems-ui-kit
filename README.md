@@ -1,6 +1,8 @@
 # OutSystems UI Kit
 
-The OutSystems UI Kit is a Sketch document that collects all the UI Patterns, Widgets, Templates, Text Styles and Color Palettes from OutSystems UI framework. The Kit allows anyone to quickly create prototypes for their projects. All the elements available in the UI Kit can also be found on OutSystems UI website.
+Meet OutSystems UI Kit - a complete collection of Styles, UI Patterns, Widgets, and Layouts, crafted for Sketch and based on the OutSystems UI framework.
+
+Speed up your design workflow with this Kit for creating beautiful responsive prototypes. To ensure brand consistency, you can customize the elements to the visual language of your brand. Find all the UI Kit elements on the OutSystems UI website.
 
 ## Getting Started
 
