@@ -9,7 +9,7 @@ Speed up your design workflow with this Kit for creating beautiful responsive pr
 To be able to use and display the kit correctly, you should have:
 
 1. The latest version of Sketch.
-2. The font San Francisco Pro (Display and Text) installed.
+2. The font [San Francisco Pro](https://developer.apple.com/fonts) (Display and Text) installed.
 
 ## What's included
 
