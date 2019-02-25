@@ -1,25 +1,57 @@
 # OutSystems UI Kit
 
-Meet OutSystems UI Kit - a complete collection of Styles, UI Patterns, Widgets, and Layouts, crafted for Sketch and based on the OutSystems UI framework.
+A complete collection of Styles, UI Patterns, Widgets, and Layouts, crafted on Sketch and based on the OutSystems UI framework.
 
-Speed up your design workflow with this Kit for creating beautiful responsive prototypes. To ensure brand consistency, you can customize the elements to the visual language of your brand. Find all the UI Kit elements on the OutSystems UI website.
+----
+
+## Who is this for?
+
+Anyone with basic design skills can use the kit as a starting point for your design process. Customize and setup your basic styles, grab a layout and compose it with the patterns and elements you need in your next web project. There’s a great library of read-to-use styles, patterns and symbols, so you can avoid reinventing the wheel and focus more time on creating awesome experiences.
+
+OutSystems UI Kit is made to boost up your workflow without restricting your creative freedom.
+
+Find all the UI Kit elements on the [OutSystems UI website](https://www.outsystems.com/outsystems-ui) and [Live Style Guide Preview](https://outsystemsui.outsystems.com/OutSystemsUILiveStyleGuide).
+
 
 ## Getting Started
 
-To be able to use and display the kit correctly, you should have:
+To be able to use and display the kit correctly, you should:
 
-1. The latest version of Sketch.
-2. The font [San Francisco Pro](https://developer.apple.com/fonts) (Display and Text) installed.
+1. Download and install the most recent version of [Sketch](https://www.sketchapp.com/).
+2. Download and install the [San Francisco Pro ](https://developer.apple.com/fonts) fonts (Display and Text).
 
 ## What's included
 
 This Kit contains the following pages:
 
-- **Styles** All the granular elements such as Text Styles, Color Palettes, Shadow Levels. Making changes to these elements will affect all the components across the document, being an excellent starting point to customize your project according to your client's brand. 
+- **Styles** All the granular elements such as Text Styles, Color Palettes, Shadow Levels. Making changes to these elements will affect all the components across the document, being an excellent starting point to customize and setup your project according to your client's brand. 
 
-
-- **UI Patterns and Widgets** Collection of the components supported by OutSystems UI to create your web responsive apps. Every component can be easily customizable and extended.
+- **UI Patterns and Widgets** Collection of the components supported by OutSystems UI to create your web responsive apps. Every component can be easily customized and extended.
 
 - **Layouts** List of structures with the standard responsive screen sizes, that you can populate with the components available to quick start drawing your interfaces.
 
 - **Symbols** Native Sketch page that contains symbols to be reusable across the document.
+
+## How to contribute
+
+The OutSystems UI team welcomes all the help, feedback or ideas, in order to improve this design resource. Please add any bugs or feature requests under the Issues tab of this repository.
+
+## Suggested Sketch plugins
+
+The following plug-ins facilitate the work with this kit effectively:
+
+#### Accessibility
+ 
+**[Stark](http://getstark.co/)** - Color contrast checker and color blind simulator.
+
+#### Workflow
+ 
+**[SketchRunner](https://github.com/stark-contrast/stark-sketch-plugin)** - Quickly search and jump to any page, artboard, group or layer the document.
+
+#### Color Palette
+
+**[Tint & Shade Generator](https://maketintsandshades.com/)** - Produce tints (lighter variants) and shades (darker variants) of a given hex color.
+
+#### File Maintenance
+
+**[Merge duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols)** - Merge symbols with the same name.
