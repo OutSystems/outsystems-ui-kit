@@ -10,7 +10,7 @@ Anyone with basic design skills can use the kit as a starting point for your des
 
 OutSystems UI Kit is made to boost up your workflow with components ready-to-use without restricting your creative freedom.
 
-Find all the UI Kit components on the [OutSystems UI website](https://www.outsystems.com/outsystems-ui) and preview all the variations on [Live Style Guide](https://outsystemsui.outsystems.com/OutSystemsUILiveStyleGuide).
+Find all the UI Kit components on the [OutSystems UI website](https://www.outsystems.com/outsystems-ui) and preview all the variations on [Live Style Guide](https://outsystemsui.outsystems.com/ReactiveStyleGuidePreview/).
 
 
 ## Getting started
